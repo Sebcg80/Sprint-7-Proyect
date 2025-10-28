@@ -24,5 +24,5 @@ if build_disp: # si la casilla de verificación está seleccionada
         
     fig = px.scatter(vehicles_df, x="model_year", y="price") # crear un gráfico de dispersión
         
-    fig.show() # crear gráfico de dispersión
+    fig.show() 
         

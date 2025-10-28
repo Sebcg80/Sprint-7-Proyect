@@ -1,2 +1,2 @@
 # Sprint-7-Proyect
-Esta aplicación nos permite crear un histograma y una gráfica de dispersión de un DataFrame sobre un archivo de vehículos en venta donde en este caso lo diseñe para que nos proporcione información en base a los el año de cada vehículo, con el cual podemos observar de que años son la mayoría de los carros en venta y también el preció a comparar dependiendo del año del vehículo.
+Esta aplicación nos permite crear un histograma y una gráfica de dispersión de un DataFrame sobre un archivo de vehículos en venta donde en este caso lo diseñe para que nos proporcione información en base a los el año de cada vehículo, con el cual podemos observar de que años son la mayoría de los carros en venta y también el preció a comparar dependiendo del año del vehículo. 
